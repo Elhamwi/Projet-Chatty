@@ -1,5 +1,5 @@
 # Projet-Chatty
-Projet Groupe VMAN Chatty
+Projet Groupe VMAD Chatty
 
 Répartition des tâches : 
 
