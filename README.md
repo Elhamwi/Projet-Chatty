@@ -3,7 +3,7 @@ Projet Groupe VMAN Chatty
 
 Répartition des tâches : 
 
-Vianey - Html Css
+Vianney - Html Css
 Mohammed - JavaScript
 Aimane - Php/DB
 Danil - DB
