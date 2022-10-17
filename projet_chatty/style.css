@@ -1,0 +1,34 @@
+body{
+    background-color: steelblue;
+    margin: 0;
+}
+
+#titre{
+    text-align: center;
+    color: ;
+}
+
+#ok{
+    width: 400px;
+    height: 400px;
+    background-color: white;
+    border: 10px;
+    margin: 10px;
+    padding: 20px;
+    margin-left: auto;
+    margin-right: auto;
+    
+}
+
+#user1 {
+    color: forestgreen;
+}
+
+
+#user0 {
+    color: teal;
+}
+
+#texte {
+    text-align: center;    
+}
