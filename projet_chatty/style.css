@@ -3,12 +3,16 @@ body{
     margin: 0;
 }
 
+em{
+    color: black;
+}
+
 #titre{
     text-align: center;
     color: ;
 }
 
-#ok{
+#bloc{
     width: 400px;
     height: 400px;
     background-color: white;
@@ -17,18 +21,23 @@ body{
     padding: 20px;
     margin-left: auto;
     margin-right: auto;
+    overflow: auto;
     
+}
+
+#texte {
+    text-align: center;    
+}
+
+#user2 {
+    color: blueviolet
 }
 
 #user1 {
     color: forestgreen;
 }
 
-
 #user0 {
-    color: teal;
+    color: red;
 }
 
-#texte {
-    text-align: center;    
-}
